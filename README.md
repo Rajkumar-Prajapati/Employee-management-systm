@@ -1,5 +1,7 @@
 # Employee Management System
 
+![Main Page](screenshots/MainPage.png)
+
 A full-stack Employee Management System built as two independent projects:
 
 - **`backend/`** — ASP.NET Core 8 Web API + MySQL (EF Core / Pomelo) + JWT authentication
